@@ -7,4 +7,6 @@ M2 - PEDRO HENRIQUE NAVES ALVES
 
 M3 - CAUÃ DOS SANTOS REBELO
 
-[Documento](https://goo.gl/LHVLb1). (Todo mundo pode editar/comentar).
+[Documento Principal](https://goo.gl/LHVLb1). (Todo mundo pode editar/comentar).
+
+[Documento de Requisitos na Forma de Casos de Uso](https://goo.gl/vqn85v).
