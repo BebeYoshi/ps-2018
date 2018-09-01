@@ -11,4 +11,4 @@ M3 - CAUÃ DOS SANTOS REBELO
 
 [Documento de Requisitos na Forma de Casos de Uso](https://goo.gl/vqn85v).
 
-[Documento de Questões] (https://goo.gl/AKxs5M).
+[Documento de Questões](https://goo.gl/AKxs5M).
