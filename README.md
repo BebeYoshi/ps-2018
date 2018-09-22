@@ -1,20 +1,21 @@
 # ps-2018
-Coordenador: ALICE FRANCENER NOGUEIRA GONZAGA
 
-M1 - VINICIUS BARRETO COSTA
+## Integrantes
 
-M2 - PEDRO HENRIQUE NAVES ALVES
+Alice Francener Nogueira Gonzaga  
+Cauã dos Santos Rebelo  
+Vinicius Barreto Costa  
 
-M3 - CAUÃ DOS SANTOS REBELO
+## Projeto
 
-- [x] Documento Principal
+- [x] Documento Principal (24/08)
 
-- [ ] [Documento de Requisitos na Forma de Casos de Uso](https://goo.gl/vqn85v).
+- [ ] [Documento de Requisitos na Forma de Casos de Uso](https://goo.gl/vqn85v) (06/09)
 
-- [ ] [Documento de Questões](https://goo.gl/AKxs5M).
+- [ ] [Documento de Questões sobre os Atributos de Qualidade](https://goo.gl/AKxs5M) (06/09)
 
-- [x] Prototipo
+- [x] Prototipo (21/09)
 
-- [x] Diagrama de Classe
-
-- [ ] [Documento Visão]()
+- [x] Diagrama de Classes (28/09)
+ 
+- [ ] [Documento Visão]() (28/09)
