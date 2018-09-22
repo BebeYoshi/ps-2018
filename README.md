@@ -7,14 +7,14 @@ M2 - PEDRO HENRIQUE NAVES ALVES
 
 M3 - CAUÃ DOS SANTOS REBELO
 
-[x] Documento Principal
+- [x] Documento Principal
 
-[ ] [Documento de Requisitos na Forma de Casos de Uso](https://goo.gl/vqn85v).
+- [ ] [Documento de Requisitos na Forma de Casos de Uso](https://goo.gl/vqn85v).
 
-[ ] [Documento de Questões](https://goo.gl/AKxs5M).
+- [ ] [Documento de Questões](https://goo.gl/AKxs5M).
 
-[x] Prototipo
+- [x] Prototipo
 
-[x] Diagrama de Classe
+- [x] Diagrama de Classe
 
-[ ] [Documento Visão]()
+- [ ] [Documento Visão]()
