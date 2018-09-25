@@ -1,5 +1,9 @@
 
 # Arquivos
 
+Definição do problema para o qual será projetada a solução e alguns requisitos
 - definicao-problema.pdf
-  - Definição do problema para o qual será projetada a solução e alguns requisitos
+
+Questões sobre atributos de qualidade
+- questoes-atributos-qualidade.doc
+- questoes-atributos-qualidade.pdf
