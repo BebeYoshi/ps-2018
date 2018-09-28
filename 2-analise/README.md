@@ -4,6 +4,6 @@
 
 ![Casos de Uso](diagrama-caso-de-uso-v1.1.png)
 
-## Diagrama de Classes
+## Diagrama de Classes (V2)
 
-![Classes](diagrama-classes-v1.1.png)
+![Classes](diagrama-classes-v2.0.png)
