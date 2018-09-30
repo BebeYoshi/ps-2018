@@ -1,0 +1,6 @@
+1. Distribuir o conteúdo do arquivo "definicao-problema.pdf" entre as seções do documento visão e deletar o arquivo "definicao-problema.pdf";
+2. Confiram se a documentação de requisitos está condizente com os demais artefatos gerados (protótipos, diagrama de casos de uso e diagramas de classe), pois estes artefatos são fundamentados nos requisitos, de forma que não podem conter nada que não esteja especificado nos requisitos.
+3. No diagrama de casos de uso existe um caso de uso chamado "Cadastrar". Cadastrar o quê? O nome tem que ser significativo ao propósito do caso de uso.
+4. Neste mesmo diagrama existem 8 casos de uso identificados. Todos eles estão documentados no documento de requisitos ou não? Se não estão, devem estar, pois o documento de requisitos deve descrever os passos para a realização de cada um destes casos de uso e será o guia para a implementação dos mesmos.
+5. Não previsa criar versões para os arquivos, o git faz isto para vocês.
+6. Não encontrei o documento visão no repositório. Informo que este documento será a base para futuras avaliações.
