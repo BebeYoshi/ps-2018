@@ -2,7 +2,7 @@
 
 ## Projeto de Software
 
-Projeto da disciplina _Projeto de Software_ do curso de Eng. de Software, UFG, 2018-2.  
+Projeto da disciplina _Projeto de Software_ do curso _Engenharia de Software_ (UFG), 2018-2.  
 
 ## Integrantes
 
