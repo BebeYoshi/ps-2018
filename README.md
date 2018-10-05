@@ -14,11 +14,11 @@ Projeto da disciplina _Projeto de Software_ do curso _Engenharia de Software_ (U
 
  Tarefa         | Diretório |Data | Status |
 ----------------|-----------|-------------|--------|
- Definicação do problema | - | 24/08 | Concluído
+ Definicação do problema do projeto | - | 24/08 | Concluído
  [Documento de requisitos na forma de casos de uso](2-analise/descricao-caso-uso.pdf) | [2-analise](2-analise) | 06/09 | Concluído
  [Diagrama de casos de uso](2-analise/diagrama-caso-de-uso.png) | [2-analise](2-analise) | 06/09 | Concluído
  [Documento de questões sobre os atributos de qualidade](1-gestao/questoes-atributos-qualidade.pdf) | [1-gestao](1-gestao) | 06/09 | Concluído
  [Protótipo de telas](3-projeto/prototipo) | [3-projeto](3-projeto) | 21/09 | Concluído
- [Documento visão](2-analise/template-documento-visao-sistema.docx) | [2-analise](2-analise) | 28/09 | Concluído
+ [Documento visão](2-analise/documento-visao-sistema.pdf) | [2-analise](2-analise) | 28/09 | Concluído
  [Diagrama de classes](2-analise/diagrama-classes.png) | [2-analise](2-analise) | 28/09 (v1), 04/10 (v2) | Concluído
  
