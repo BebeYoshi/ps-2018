@@ -20,5 +20,6 @@ Projeto da disciplina _Projeto de Software_ do curso _Engenharia de Software_ (U
  [Documento de questões sobre os atributos de qualidade](1-gestao/questoes-atributos-qualidade.pdf) | [1-gestao](1-gestao) | 06/09 | Concluído
  [Protótipo de telas](3-projeto/prototipo) | [3-projeto](3-projeto) | 21/09 | Concluído
  [Documento visão](2-analise/documento-visao-sistema.pdf) | [2-analise](2-analise) | 28/09 | Concluído
- [Diagrama de classes](2-analise/diagrama-classes.png) | [2-analise](2-analise) | 28/09 (v1), 04/10 (v2) | Concluído
+ [Diagrama de classes](2-analise/diagrama-classes.png) | [2-analise](2-analise) | 28/09 (v1), 04/10 (v2) 05/12 (v3)| Concluído
+ [Diagrama de estado](2-analise/diagrama-classes.png) | [2-analise](2-analise) | 05/12| Concluído
  
