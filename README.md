@@ -21,5 +21,7 @@ Projeto da disciplina _Projeto de Software_ do curso _Engenharia de Software_ (U
  [Protótipo de telas](3-projeto/prototipo) | [3-projeto](3-projeto) | 21/09 | Concluído
  [Documento visão](2-analise/documento-visao-sistema.pdf) | [2-analise](2-analise) | 28/09 | Concluído
  [Diagrama de classes](2-analise/diagrama-classes.png) | [2-analise](2-analise) | 28/09 (v1), 04/10 (v2) 05/12 (v3)| Concluído
+ [Definição da arquitetura de software](2-analise/documento-arquitetura-software.pdf) | [2-analise](2-analise) | 09/11 | Concluído
+ [Diagramas de sequência](2-analise/diagrama-sequencia) | [2-analise](2-analise) | 23/11 | Concluído
  [Diagramas de estado](2-analise/diagrama-estado) | [2-analise](2-analise) | 05/12| Concluído
  
